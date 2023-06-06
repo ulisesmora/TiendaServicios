@@ -51,7 +51,7 @@ namespace TiendaServicios.api.Libro.Tests
         [Fact]
         public async void GetLibros()
         {
-            System.Diagnostics.Debugger.Launch();
+           // System.Diagnostics.Debugger.Launch();
             // que metodo dentro de microservice se esta encargando de realizar la consulta de libros de la base de datos ???
             // Emular a la instancia de entity framework core
             // 1.- emular las acciones y eventos de un objeto en un ambiente en unit test
